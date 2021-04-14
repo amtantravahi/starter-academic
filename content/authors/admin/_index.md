@@ -21,7 +21,6 @@ interests:
 - Politics + Current Affairs 
 - Development Economics + Conflict 
 - Finance + Security Analysis
-- Reading + Writing + Films + Running + Lifting + Tennis + Golf + Soccer (GGMU)
 
 # Education to show in About widget
 education:
