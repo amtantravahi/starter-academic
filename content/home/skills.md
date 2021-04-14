@@ -36,7 +36,10 @@ feature:
   name: Stata
 - icon: globe-africa
   icon_pack: fas
-  name: ArcGIS/QGIS
+  name: GIS
+- icon: html5
+  icon_pack: fas
+  name: HTML+css
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
