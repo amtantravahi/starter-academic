@@ -1,40 +1,40 @@
 ---
-title: "An example conference paper"
+title: "Interest Rates and Violence in Mexico"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Ethan B. Kapstein
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Princeton University"
+- "Princeton University"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-04-13"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-13"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In **
+publication_short: In **
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper examines the effects of homicides on the interest rates paid on short-term Mexican treasury bills during the period 2010-2017. We show that even when taking standard macro-economic factors into account, homicides provide additional, pertinent information to financial markets about government spending, leading to higher interest rates. Our results show a positive relationship between homicides and the spread on Mexican vs US  treasury bills, suggesting that investors fear that violence will lead to higher government spending and lower tax revenues. We test this mechanism using Mexican data on federal transfers and development bank loans to those states most affected by violence. In so doing we make a novel contribution to the literature on the economic costs of violent conflict.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we examine the effects of homicides on the interest rates paid on short-term Mexican treasury bills.
 
-tags: []
+tags: [Mexico, Macro, Violence, Homicides]
 
 # Display this page in the Featured widget?
 featured: true
