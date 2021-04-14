@@ -32,7 +32,7 @@ feature:
   icon_pack: fab
   name: Git
 - icon: abacus
-  icon_pack: fab
+  icon_pack: fas
   name: Stata
 
 # Uncomment to use emoji icons.
