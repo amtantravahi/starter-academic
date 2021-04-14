@@ -11,7 +11,7 @@ role: Research Specialist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The Emperical Studies of Conflict Project, Princeton University
-  url: https://www.esoc.princeton.edu/
+  url: https://www.esoc.princeton.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a research specialist in The Emperical Studies of Conflict Project at Princeton University, where I study the role of violence in financial markets.
@@ -61,9 +61,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a research specialist in the Emperical Studies of Conflict Project at Princeton University, where I study the role of violence in financial markets. My research is focused on how violence affects investor perceptions, and the role violence plays in the financial markets of fragile states. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated from The University of Texas at Austin in 2020 with a BA in Government. I was born in Ghana, and I have a dog name Penelope. If you clicked her picture, I hope it brightened your day a bit! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
