@@ -20,6 +20,9 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- icon: google-drive
+  icon_pack: fab
+  name: Sheets & Excel
 - description: 100%
   icon: chart-line
   icon_pack: fas
