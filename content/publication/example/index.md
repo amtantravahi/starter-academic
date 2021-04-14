@@ -32,7 +32,7 @@ publication_short: In **
 abstract: This paper examines the effects of homicides on the interest rates paid on short-term Mexican treasury bills during the period 2010-2017. We show that even when taking standard macro-economic factors into account, homicides provide additional, pertinent information to financial markets about government spending, leading to higher interest rates. Our results show a positive relationship between homicides and the spread on Mexican vs US  treasury bills, suggesting that investors fear that violence will lead to higher government spending and lower tax revenues. We test this mechanism using Mexican data on federal transfers and development bank loans to those states most affected by violence. In so doing we make a novel contribution to the literature on the economic costs of violent conflict.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we examine the effects of homicides on the interest rates paid on short-term Mexican treasury bills.
+ summary:
 
 tags: [Mexico, Macro, Violence, Homicides]
 
