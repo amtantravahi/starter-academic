@@ -10,7 +10,7 @@ role: Research Specialist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Emperical Studies of Conflict Project, Princeton University
+- name: Princeton University
   url: https://www.esoc.princeton.edu
 
 # Short bio (displayed in user profile at end of posts)
