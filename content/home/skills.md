@@ -34,6 +34,9 @@ feature:
 - icon: abacus
   icon_pack: fas
   name: Stata
+- icon: globe-africa
+  icon_pack: fas
+  name: ArcGIS/QGIS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
